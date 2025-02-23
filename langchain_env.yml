@@ -1,0 +1,17 @@
+name: langchain_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - langchain
+  - langgraph
+  - langsmith
+  - gradio
+  - beautifulsoup4
+  - pip
+  - pip:
+    - langchain_openai
+    - langchain_hub
+    - googlesearch-python
+    - duckduckgo-search
