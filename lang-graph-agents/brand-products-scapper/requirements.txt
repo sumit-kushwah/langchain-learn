@@ -1,0 +1,8 @@
+langchain_core
+langchain-openai
+langgraph
+scrapingant-client 
+langchain 
+langchain-community
+selenium 
+unstructured
