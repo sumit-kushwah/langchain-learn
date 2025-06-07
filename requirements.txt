@@ -1,3 +1,8 @@
 langchain_core
-langchain-openai
+langchain_aws
 langgraph
+playwright 
+beautifulsoup4
+boto3
+langchain-google-community
+load_dotenv
